@@ -4,7 +4,7 @@
 - 🌱 Estudando microsserviços 
 - 💬 <a href="https://www.linkedin.com/in/gregorio-santos/" > Gregorio Santos (Linkedin) </a>
 - 📫 <a href="mailto:gregoriohd@gmail.com">gregoriohd@gmail.com </a>
-- ⚡ <a href="tel:71987720087">7198772-0087 </a>
+- ⚡ <a href="tel:71987720087" style>7198772-0087 </a>
 
 <!--
 **gregoriohd/gregoriohd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
