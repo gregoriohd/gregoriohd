@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gregorio! 🧑🏾‍💻
 ##
 - 🔭 Desenvolvedor back-end java/nodejs
-- 🌱 Estudando microsserviços 
+- 🌱 Aprendendo microsserviços 
 - 💬 <a href="https://www.linkedin.com/in/gregorio-santos/" > Gregorio Santos (Linkedin) </a>
 - 📫 <a href="mailto:gregoriohd@gmail.com">gregoriohd@gmail.com </a>
 - ⚡ <a href="tel:+5571987720087">+557198772-0087 (WhatsApp)</a>
