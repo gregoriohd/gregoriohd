@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriohd&theme=react&show_icons=true&layout=compact" />
   <!-- <img height="180cm" src="https://github-readme-stats.vercel.app/api/pin?username=gregoriohd&repo=github-readme-stats&theme=dark&count_private=true" /> 
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=gregoriohd /> -->
-</div>
+</div> -->
  
   ##
 <div align="center">
